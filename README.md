@@ -37,8 +37,3 @@ I build **full-stack products and AI systems**: data pipelines, ML platforms, gr
 | **Backend** | FastAPI · Node.js · PostgreSQL · MinIO · Docker |
 | **AI / ML** | PyTorch · PyTorch Geometric · scikit-learn · PySpark · RAG · AI Agents |
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-Wala&layout=compact&theme=github_dark&hide_border=true" />
-</p>
